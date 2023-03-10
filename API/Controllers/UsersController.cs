@@ -1,3 +1,4 @@
+using DatingApp.Controllers;
 using DatingApp.Data;
 using DatingApp.Entities;
 using Microsoft.AspNetCore.Mvc;
