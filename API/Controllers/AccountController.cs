@@ -1,6 +1,5 @@
 using System.Security.Cryptography;
 using System.Text;
-using API.Controllers;
 using DatingApp.Data;
 using DatingApp.DTOs;
 using DatingApp.Entities;
